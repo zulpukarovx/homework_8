@@ -1,0 +1,33 @@
+.iphone-style-container {
+    width: 450px;
+    margin: 50px auto;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f4f4f4;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+  
+  .iphone-header {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .iphone-screen {
+    padding: 20px;
+  }
+  
+  .iphone-home-button {
+    height: 20px;
+    width: 20px;
+    margin: 0 auto;
+    background-color: #333;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
